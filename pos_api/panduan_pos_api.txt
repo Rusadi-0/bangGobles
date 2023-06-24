@@ -1,0 +1,6 @@
+o mulai
+- install xampp php 8
+- install node.js
+- install npm
+- ketik perintah "npm run dev"
+o selesai

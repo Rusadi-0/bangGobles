@@ -1,0 +1,6 @@
+o mulai
+- install next.js
+- setelah isntall next.js, masukan nama appnya "fe-client" sesuaikan konfigurai dengan gambar "konfigurasi next.js"
+- install axios
+- jalan perintah "npm run dev"
+o selesai
